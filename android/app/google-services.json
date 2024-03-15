@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102756319116",
+    "project_id": "skincare-logger",
+    "storage_bucket": "skincare-logger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102756319116:android:bf41fdeac8ce5b5c82a0a9",
+        "android_client_info": {
+          "package_name": "com.example.skincare_logger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkiPfaobHsgy3PFcQ5ROz7fxaXGtQsNx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
